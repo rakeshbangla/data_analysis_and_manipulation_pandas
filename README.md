@@ -1,1 +1,1 @@
-Data Analysis abd Manipulation using Pandas
+Data Analysis and Manipulation using Pandas
